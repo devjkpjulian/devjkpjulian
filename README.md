@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devjkpjulian
+- 👀 I’m interested in making web applications
+- 🌱 I’m currently learning any web related language
+- 💞️ I’m looking to collaborate on profitable apps that could create change
+- 📫 How to reach me? Email me at jkpjulian@icreatedev.live
